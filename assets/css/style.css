@@ -133,7 +133,6 @@
 .profile__img {
     width: 100%;
     aspect-ratio: 1 / 1;
-    background: #ccc; /* 仮の背景色 */
     display: block;
 }
 
