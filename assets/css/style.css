@@ -130,7 +130,7 @@
 }
 
 /* プロフィール画像：画像未用意なのでサイズだけ確保 */
-.profile__img {
+.profile__img{
     width: 100%;
     aspect-ratio: 1 / 1;
     display: block;
@@ -229,7 +229,7 @@
         padding: 0;
     }
 
-    .profile__img {
+    .profile__img{
         width: 536px;
         height: 478px;
     }
