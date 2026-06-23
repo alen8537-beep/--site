@@ -201,8 +201,6 @@
     margin-top: 4px;
 }
 
-/* ここまで修正部分 */
-
 @media screen and (min-width: 769px) {
     .section--consept {
         padding: 120px 0;
@@ -245,6 +243,10 @@
         width: 100%;
         height: 351px;
         object-fit: cover;   /* 画像比率を保ちつつ枠に収める */
+    }
+
+    .concept__caption {
+        padding: 12px var(--primary-padding)
     }
 
     .concept__caption-title {
