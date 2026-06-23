@@ -246,7 +246,7 @@
     }
 
     .concept__caption {
-        padding: 12px var(--primary-padding)
+        padding: 12px var(--primary-padding);
     }
 
     .concept__caption-title {
